@@ -9,3 +9,7 @@ Track Total Sales, Profit, Orders, and Quantity. Compare performance across Mark
 
 Dataset Overview 
 - <a href="https://github.com/gokulg2302-boop/Data-analysis-Dashboard/blob/main/Walmart%20Dashboard.xlsx" >Dataset</a>
+
+Dashboard
+<img width="341" height="281" alt="dashboard" src="https://github.com/user-attachments/assets/2e6b120a-ef86-4bee-beac-22b87c4f7206" />
+
